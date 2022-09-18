@@ -19,9 +19,7 @@ A few helpful resources for learning C are [w3schools](https://www.w3schools.com
 
 We will be using Visual Studio Code, you can download VScode [here.](https://code.visualstudio.com/download)
 
-Once you have finished downloading and installing VScode onto your computer
-open the application and click on *extensions* located in the lefthand bar.
-The symbol for it is 4 squares.
+Once you have finished downloading and installing VScode onto your computeropen the application and click on *extensions* located in the lefthand bar. The symbol for it is 4 squares.
 
 Once the *extensions* screen has popped out, use the search bar at the top of newly opened
 screen and enter *C*.
@@ -39,6 +37,28 @@ Mac has a compiller that is already availible for use called *Clang*. To use cla
 In this section we will cover how to use some basic commands in C.
 
 This will include basic Syntax, Functions, Printing, and Commenting.
+
+### Basic Syntax
+
+At the begining of most C programs you will need you include the line **#include <stdio.h>** this line is a header file library that allows us to use input and output statments. 
+
+### Functions
+
+Any code that you want to be executed must be a part of a function. To create a function you must start with the following code:
+
+int(main){statments}
+
+This is an example of a basic function in C. In the example, we have named our function *main*, but you could name it however you want as long as you start with a letter or underscore and only include letters, numbers, or underscores. (Please note that there is a 31 character limit)
+
+Any statment that you want to run must be placed within the curly brackets of a function.
+
+### Printing
+
+The command for print in C is as follows: *printf(" ");*
+
+Whatever output you wish to have must be withing the parentheses and quotes. Another thing to note is that each statment must end with a semi-colon to both end the statment and to seperate it from the next statment. 
+
+
 
 
 
