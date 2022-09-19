@@ -82,6 +82,8 @@ All together, we should have something like this:
 
 ![Example of completed Hello World Code](https://i0.wp.com/www.developersumo.com/wp-content/uploads/2021/08/carbon-20.png?fit=804%2C588&ssl=1)
 
+Congradulations! You have completed your first program in C!
+
 
 
 
