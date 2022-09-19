@@ -72,6 +72,15 @@ Now that we have looked at some of the basic commands of C, let us create our fi
 
 We will be creating a Hello World program. We will need to create a function that outputs the phrase "Hello World!". 
 
+First we will need **#include <stdio.h>** in order to have an output. 
+
+Next, we will need to create a function so that C will execute our code. **int main() { }**
+
+Then , within the curly brackets of the function, we will insert our print command: **printf("Hello World!")**
+
+All together, we should have something like this: 
+
+![Example of completed Hello World Code](https://i0.wp.com/www.developersumo.com/wp-content/uploads/2021/08/carbon-20.png?fit=804%2C588&ssl=1)
 
 
 
