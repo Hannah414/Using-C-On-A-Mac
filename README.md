@@ -56,7 +56,9 @@ Any statment that you want to run must be placed within the curly brackets of a 
 
 The command for print in C is as follows: *printf(" ");*
 
-Whatever output you wish to have must be withing the parentheses and quotes. Another thing to note is that each statment must end with a semi-colon to both end the statment and to seperate it from the next statment. 
+Whatever output you wish to print must be withing the parentheses and quotes. 
+
+Another thing to note is that each statment must end with a semi-colon to both end the statment and to seperate it from following statments. 
 
 
 
