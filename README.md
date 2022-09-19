@@ -60,6 +60,24 @@ Whatever output you wish to print must be withing the parentheses and quotes.
 
 Another thing to note is that each statment must end with a semi-colon to both end the statment and to seperate it from following statments. 
 
+### Commenting
+
+To comment in C, you need to preface the text with a double slash like so: // comment. 
+
+If you want to comment out a large block of code all at once you would brackett the entierty of the code as follows: /* code */. 
+
+## Hello World 
+
+Now that we have looked at some of the basic commands of C, let us create our first program!
+
+We will be creating a Hello World program. We will need to create a function that outputs the phrase "Hello World!". 
+
+
+
+
+
+
+
 
 
 
