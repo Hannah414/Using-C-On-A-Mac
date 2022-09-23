@@ -82,13 +82,25 @@ All together, we should have something like this:
 
 ![Example of completed Hello World Code](https://i0.wp.com/www.developersumo.com/wp-content/uploads/2021/08/carbon-20.png?fit=804%2C588&ssl=1)
 
-# Congratulations! You have completed your first program in C!
+Congratulations! You have completed your first program in C!
 
 ## Data Types 
 
 In C, data types are declarations for variables that determines the type and size of the data we associate with each variables. Every variable used in C muxt be declared before it can be used. 
 
-We will be going over ints, chars, floats, lists, arrays, booleans, and dictionaries. 
+We will be going over ints, chars, floats, lists, arrays, booleans, dictionaries, and voids. 
+
+### int
+
+*int* variables are whole numbers that can have both zero, negative, or positive values. 
+
+### char
+
+*char* is used to declare chratacter type variables, you can use anycharacter contained withing quotes or apostrophes
+
+### float
+
+*float* is used to hold real numbers, these numbers can be positive, negative, rational or irrational. You can also use *double* the same way as a float for longer, more accurate numbers. 
 
 
 
