@@ -88,19 +88,23 @@ Congratulations! You have completed your first program in C!
 
 In C, data types are declarations for variables that determines the type and size of the data we associate with each variables. Every variable used in C muxt be declared before it can be used. 
 
-We will be going over ints, chars, floats, lists, arrays, booleans, dictionaries, and voids. 
+We will be going over ints, chars, floats, arrays, booleans, dictionaries, and voids. 
 
-### int
+### ints
 
 *int* variables are whole numbers that can have both zero, negative, or positive values. 
 
-### char
+### chars
 
 *char* is used to declare chratacter type variables, you can use anycharacter contained withing quotes or apostrophes
 
-### float
+### floats
 
 *float* is used to hold real numbers, these numbers can be positive, negative, rational or irrational. You can also use *double* the same way as a float for longer, more accurate numbers. 
+
+### arrays
+
+*arrays* are variables that can store multiple values of the same type in one variable instead of multiple. *arrays* must be declared, and are created when square brackets are places diractly following the variable name and are set equal to it values which are contained in curly brackets and seperated by commas. For example: **int var[] = {1,2,3}**
 
 
 
