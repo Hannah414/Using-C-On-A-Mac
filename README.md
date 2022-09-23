@@ -92,21 +92,23 @@ We will be going over ints, chars, floats, arrays, booleans, dictionaries, and v
 
 ### ints
 
-*int* variables are whole numbers that can have both zero, negative, or positive values. 
+*int* variables are whole numbers that can have both zero, negative, or positive values. These variables are declared when you write *int* before the variable. 
 
 ### chars
 
-*char* is used to declare chratacter type variables, you can use anycharacter contained withing quotes or apostrophes
+*char* is used to declare chratacter type variables, you can use anycharacter contained withing quotes or apostrophes. These variables are declared when you write *char* before the variable. 
 
 ### floats
 
-*float* is used to hold real numbers, these numbers can be positive, negative, rational or irrational. You can also use *double* the same way as a float for longer, more accurate numbers. 
+*float* is used to hold real numbers, these numbers can be positive, negative, rational or irrational. You can also use *double* the same way as a float for longer, more accurate numbers. These variables are declared when you write *float* (or *double*) before the variable. 
 
 ### arrays
 
 *arrays* are variables that can store multiple values of the same type in one variable instead of multiple. *arrays* must be declared, and are created when square brackets are places diractly following the variable name and are set equal to it values which are contained in curly brackets and seperated by commas. For example: **int var[] = {1,2,3}**
 
+### booleans
 
+*bool* is a variable type that returnes **True** if a variable is greater then 0 and **False** if the varibale equals 0. Note: To use *bool* you need to include the following header: **#include <stdbool.h>** 
 
 
 
