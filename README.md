@@ -85,7 +85,7 @@ All together, we should have something like this:
 ## Congratulations! You have completed your first program in C!
 
 
-
+## Data Types 
 
 
 
