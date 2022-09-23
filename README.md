@@ -114,7 +114,9 @@ We will be going over ints, chars, floats, arrays, booleans, and voids.
 
 *void* is an incomplete data type. a *void* data type menas "nothing" and can be considered **absent**, if a function returns nothing then the data type returned should be *void*. 
 
+### pointers
 
+A *pointer* is a variable that points to the storage/memory address of another variable. To create a pointer you first declare its data type, then you place an asterisk between the data type and the variable name. For example: **int * pointer;**. To get the address of the variable we are pointing to, we must set the pointer equal to the variable we want to point at with an & symbol in front of the variable name. Example: **pointer = &variable;**
 
 
 
