@@ -82,10 +82,19 @@ All together, we should have something like this:
 
 ![Example of completed Hello World Code](https://i0.wp.com/www.developersumo.com/wp-content/uploads/2021/08/carbon-20.png?fit=804%2C588&ssl=1)
 
-## Congratulations! You have completed your first program in C!
-
+# Congratulations! You have completed your first program in C!
 
 ## Data Types 
+
+In C, data types are declarations for variables that determines the type and size of the data we associate with each variables. Every variable used in C muxt be declared before it can be used. 
+
+We will be going over ints, chars, floats, lists, arrays, booleans, and dictionaries. 
+
+
+
+
+
+
 
 
 
