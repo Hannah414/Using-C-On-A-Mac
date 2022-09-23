@@ -88,7 +88,7 @@ Congratulations! You have completed your first program in C!
 
 In C, data types are declarations for variables that determines the type and size of the data we associate with each variables. Every variable used in C muxt be declared before it can be used. 
 
-We will be going over ints, chars, floats, arrays, booleans, dictionaries, and voids. 
+We will be going over ints, chars, floats, arrays, booleans, and voids. 
 
 ### ints
 
@@ -108,10 +108,11 @@ We will be going over ints, chars, floats, arrays, booleans, dictionaries, and v
 
 ### booleans
 
-*bool* is a variable type that returnes **True** if a variable is greater then 0 and **False** if the varibale equals 0. Note: To use *bool* you need to include the following header: **#include <stdbool.h>** 
+*bool* is a variable type that returnes **True** if a variable is greater then 0 and **False** if the variable equals 0. Note: To use *bool* you need to include the following header: **#include <stdbool.h>** and the variable must have *bool* before it. 
 
+### voids
 
-
+*void* is an incomplete data type. a *void* data type menas "nothing" and can be considered **absent**, if a function returns nothing then the data type returned should be *void*. 
 
 
 
