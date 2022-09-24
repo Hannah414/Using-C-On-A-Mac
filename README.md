@@ -94,13 +94,15 @@ We will be going over ints, chars, floats, arrays, booleans, and voids.
 
 *int* variables are whole numbers that can have both zero, negative, or positive values. These variables are declared when you write *int* before the variable. 
 
-### chars
-
-*char* is used to declare chratacter type variables, you can use anycharacter contained withing quotes or apostrophes. These variables are declared when you write *char* before the variable. 
-
 ### floats
 
 *float* is used to hold real numbers, these numbers can be positive, negative, rational or irrational. You can also use *double* the same way as a float for longer, more accurate numbers. These variables are declared when you write *float* (or *double*) before the variable. 
+
+When adding an *int* with a *float* C will automatically convert the *int* into a *float* in order to complete the equation. The resulting output will be a float. 
+
+### chars
+
+*char* is used to declare chratacter type variables, you can use anycharacter contained withing quotes or apostrophes. These variables are declared when you write *char* before the variable. 
 
 ### arrays
 
