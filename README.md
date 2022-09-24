@@ -120,6 +120,23 @@ When adding an *int* with a *float* C will automatically convert the *int* into 
 
 A *pointer* is a variable that points to the storage/memory address of another variable. To create a pointer you first declare its data type, then you place an asterisk between the data type and the variable name. For example: **int * pointer;**. To get the address of the variable we are pointing to, we must set the pointer equal to the variable we want to point at with an & symbol in front of the variable name. Example: **pointer = &variable;**
 
+## Naming Variables
+
+There are both hard and soft rules for naming your variables. Some rules are set within the C program, and others are general rules that coders follow because of tradition. 
+
+### Hard Rules
+
+Variables can contain letters, digits and underscores and must begin with a letter or an underscore. Variables are case sensitive (For example: myVar and myvar are different variables). Variables cannot contain whitespaces or special characters and reserved words (such as int) cannot be used. 
+
+### Soft Rules
+
+While it is possible for you to start a variable name with an underscore, most coders will not. If you are working software that is going to be shared, edited, or reveiwed by others it is advised you don't start the variable name with an underscore. 
+
+On the same note, variables should not be started with an uppercase letter unless it is a *class* name (we will get to those later)
+
+
+
+
 
 
 
