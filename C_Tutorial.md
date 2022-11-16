@@ -70,7 +70,7 @@ If you want to comment out a large block of code all at once you would brackett 
 
 Now that we have looked at some of the basic commands of C, let us create our first program!
 
-We will be creating a Hello World program. We will need to create a function that outputs the phrase "Hello World!". 
+We will be creating a Hello World program. (See Program_1) We will need to create a function that outputs the phrase "Hello World!". 
 
 First we will need **#include <stdio.h>** in order to have an output. 
 
