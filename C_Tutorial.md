@@ -126,13 +126,13 @@ There are both hard and soft rules for naming your variables. Some rules are set
 
 ### Hard Rules
 
-Variables can contain letters, digits and underscores and must begin with a letter or an underscore. Variables are case sensitive (For example: myVar and myvar are different variables). Variables cannot contain whitespaces or special characters and reserved words (such as int) cannot be used. 
+Variables can contain letters, digits and underscores and must begin with a letter or an underscore. Variables are case sensitive (For example: myVar and myvar are different variables). Variables cannot contain whitespaces or special characters and reserved words (such as *int*) cannot be used. 
 
 ### Soft Rules
 
-While it is possible for you to start a variable name with an underscore, most coders will not. If you are working software that is going to be shared, edited, or reveiwed by others it is advised you don't start the variable name with an underscore. 
+While it is possible for you to start a variable name with an underscore or number, most programmers will not. If you are working software that is going to be shared, edited, or reveiwed by others it is advised you don't start the variable name with an underscore. 
 
-On the same note, variables should not be started with an uppercase letter unless it is a *class* name (we will get to those later)
+On the same note, variables should not be started with an uppercase letter unless it is a *class* name (we will get to those later).
 
 
 
