@@ -78,9 +78,7 @@ Next, we will need to create a function so that C will execute our code. **int m
 
 Then , within the curly brackets of the function, we will insert our print command: **printf("Hello World!")**
 
-All together, we should have something like this: 
-
-![Example of completed Hello World Code](https://i0.wp.com/www.developersumo.com/wp-content/uploads/2021/08/carbon-20.png?fit=804%2C588&ssl=1)
+# insert picture of code here
 
 Congratulations! You have completed your first program in C!
 
@@ -88,7 +86,7 @@ Congratulations! You have completed your first program in C!
 
 In C, data types are declarations for variables that determines the type and size of the data we associate with each variables. C is a strongly typed laguage, therefor every variable used in C muxt be declared before it can be used. 
 
-We will be going over ints, chars, floats, arrays, booleans, and voids. 
+We will be going over ints, chars, floats, arrays, booleans, and voids. See Program_2 for examples.
 
 ### ints
 
