@@ -46,9 +46,9 @@ At the begining of most C programs you will need you include the line **#include
 
 Any code that you want to be executed must be a part of a function. To create a function you must start with the following code:
 
-int(main){statments}
+data-type(main){statments}
 
-This is an example of a basic function in C. In the example, we have named our function *main*, but you could name it however you want as long as you start with a letter or underscore and only include letters, numbers, or underscores. (Please note that there is a 31 character limit)
+This is an example of a basic function in C. Data-type refers to the type of data that will be returned by the function (will will look at this more later). In the example, we have named our function *main*, but you could name it however you want as long as you start with a letter or underscore and only include letters, numbers, or underscores. (Please note that there is a 31 character limit)
 
 Any statment that you want to run must be placed within the curly brackets of a function.
 
@@ -76,7 +76,7 @@ First we will need **#include <stdio.h>** in order to have an output.
 
 Next, we will need to create a function so that C will execute our code. **int main() { }**
 
-Then , within the curly brackets of the function, we will insert our print command: **printf("Hello World!")**
+Then , within the curly brackets of the function, we will insert our print command: **printf("Hello World!")** and set our return to 0. (Again, we will go over *return* later, when we discuss functions)
 
 # insert picture of code here
 
