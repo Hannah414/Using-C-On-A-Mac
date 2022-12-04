@@ -100,7 +100,7 @@ When adding an *int* with a *float* C will automatically convert the *int* into 
 
 ### chars
 
-*char* is used to declare character type variables, you can use anycharacter contained withing quotes or apostrophes. These variables are declared when you write *char* before the variable. 
+*char* is used to declare character type variables, you can use any character contained withing quotes or apostrophes. These variables are declared when you write *char* before the variable. 
 
 ### arrays
 
