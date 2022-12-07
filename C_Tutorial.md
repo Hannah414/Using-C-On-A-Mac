@@ -136,7 +136,11 @@ On the same note, variables should not be started with an uppercase letter unles
 
 Reserved words are words that are built into programing languages. They are used to execute built in operations automaticaly. Like we discussed above, data types must be declared when creating variables, this is an exaple of using reserved words. *int*, *float*, *char*, etc.. are used to automatically declare the limitaions and rules of the variable(s) created. Other reserved words can be found [here](https://www.ibm.com/docs/en/developer-for-zos/14.2?topic=programs-c-reserved-keywords).
 
+## Operators in C
 
+Some of the basic operators avalible in c are the following:
+
+![table of basic operators in c](https://learningmonkey.in/wp-content/uploads/2021/06/Operator-Precedence-and-Associativity-in-C.jpg)
 
 
 
