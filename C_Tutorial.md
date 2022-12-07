@@ -162,7 +162,7 @@ Logical conditionals use rational operators, and are generally self explainatory
  
 ![example of if/else if/else statments](https://www.programiz.com/sites/tutorial2program/files/cpp-if-else-if-else-working.png)
 
-For if/else statements, if two conditions must be met, you can include both conditionals in the same if statement. You would place both conditionals within the paranthesis seperated by an *and*. if the first condition is not met, C will not even check the second condition, this is called short-circuiting. 
+For if/else statements, if two conditions must be met, you can include both conditionals in the same *if* statement. You would place both conditionals within the parentheses seperated by an *and*. if the first condition is not met, C will not even check the second condition, this is called short-circuiting. 
 
 Note: You must surround the code to be executed with brackets {}. 
 
