@@ -167,7 +167,9 @@ C uses the following conditional statements:
 
 ![example of switch statments](https://cwh-full-next-space.fra1.digitaloceanspaces.com/videos/cpp-tutorials-in-hindi-9/base64_NSQ7ZYo.webp)
 
+Note: With either if/else or switch statements, you must suround the code to be executed with brackets {}. 
 
+For if/else statements, if two conditions must be met, you can include both conditionals in the same if statement. You would place both conditionals within the paranthesis seperated by an *and*. if the first condition is not met, C will not even check the second condition, this is called short-circuiting. 
 
 
 
