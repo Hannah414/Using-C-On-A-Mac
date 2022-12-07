@@ -108,7 +108,9 @@ When adding an *int* with a *float* C will automatically convert the *int* into 
 
 ### booleans
 
-*bool* is a variable type that returnes **True** if a variable is greater then 0 and **False** if the variable equals 0. Note: To use *bool* you need to include the following header: **#include <stdbool.h>** and the variable must have *bool* before it, this is because Boolean is not a built in operation in c. 
+*bool* is a variable type that returnes **True** if a variable is greater then 0 and **False** if the variable equals 0. 
+
+Note: To use *bool* you need to include the following header: **#include <stdbool.h>** and the variable must have *bool* before it, this is because bool is not a built in operation in c. 
 
 ### voids
 
@@ -143,6 +145,23 @@ Some of the basic operators avalible in c are the following:
 ![table of basic operators in c](https://learningmonkey.in/wp-content/uploads/2021/06/Operator-Precedence-and-Associativity-in-C.jpg)
 
 You can find examples of how to use these operators in Program_2 and Program_3. 
+
+## Conditional Statements
+
+# Logical Conditionals
+
+Logical conditionals use rational operators, and are generally self explainatory:
+
+![table of rational operators](https://www.programtopia.net/wp-content/uploads/2021/01/2.PNG)
+
+# if/else Statements
+
+C uses the following conditional statements:
+ - *if*: to specify a block of code to be executed, if the condition is true
+ - *else*: to specify a block of code to be executed, if condition is false
+ - *else if*: to specify a block of code to be executed, if first condition is false
+ - *switch*: to specify many alternate blocks of code to be executed
+
 
 
 
