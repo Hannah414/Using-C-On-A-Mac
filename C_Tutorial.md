@@ -156,23 +156,25 @@ Logical conditionals use rational operators, and are generally self explainatory
 
 # if/else Statements
 
-C uses the following conditional statements:
  - *if*: to specify a block of code to be executed, if the condition is true
  - *else if*: to specify a block of code to be executed, if first condition is false
- - *else*: to specify a block of code to be executed, if condition is false
+ - *else*: to specify a block of code to be executed, if condition is false\
  
 ![example of if/else if/else statments](https://www.programiz.com/sites/tutorial2program/files/cpp-if-else-if-else-working.png)
+
+For if/else statements, if two conditions must be met, you can include both conditionals in the same if statement. You would place both conditionals within the paranthesis seperated by an *and*. if the first condition is not met, C will not even check the second condition, this is called short-circuiting. 
+
+Note: You must surround the code to be executed with brackets {}. 
+
+# switch statements
 
 - *switch*: to specify many alternate blocks of code to be executed
 
 ![example of switch statments](https://cwh-full-next-space.fra1.digitaloceanspaces.com/videos/cpp-tutorials-in-hindi-9/base64_NSQ7ZYo.webp)
 
-
-For if/else statements, if two conditions must be met, you can include both conditionals in the same if statement. You would place both conditionals within the paranthesis seperated by an *and*. if the first condition is not met, C will not even check the second condition, this is called short-circuiting. 
-
 For switch statments, the conditional must match the case exactly in order for the bracketed code to be executed. Once a condition is met, and the associated code has run, you use *break* to exit the switch statement. 
 
-Note: With if/else and switch statements, you must suround the code to be executed with brackets {}. 
+Note: Like with if/else statements you must surround the code to be executed with brackets {}. 
 
 
 
