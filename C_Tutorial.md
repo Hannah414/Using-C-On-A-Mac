@@ -84,7 +84,7 @@ Congratulations! You have completed your first program in C!
 
 ## Data Types 
 
-In C, data types are declarations for variables that determines the type and size of the data we associate with each variables. C is a strongly typed laguage, therefor every variable used in C muxt be declared before it can be used. 
+In C, data types are declarations for variables that determines the type and size of the data we associate with each variables. C is a strongly (explicitly) typed language, therefor every variable used in C must be declared before it can be used. (This makes C a static typed language, where the variables are declared within the code, and the program knows what each variable type is before execution.)
 
 We will be going over ints, chars, floats, arrays, booleans, and voids. See Program_2 for examples.
 
