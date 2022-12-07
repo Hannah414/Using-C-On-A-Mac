@@ -162,6 +162,9 @@ C uses the following conditional statements:
  - *else if*: to specify a block of code to be executed, if first condition is false
  - *switch*: to specify many alternate blocks of code to be executed
 
+![example of if/else if/else statments](https://www.programiz.com/sites/tutorial2program/files/cpp-if-else-if-else-working.png)
+
+![example of switch statments](https://cwh-full-next-space.fra1.digitaloceanspaces.com/videos/cpp-tutorials-in-hindi-9/base64_NSQ7ZYo.webp)
 
 
 
