@@ -142,7 +142,7 @@ Some of the basic operators avalible in c are the following:
 
 ![table of basic operators in c](https://learningmonkey.in/wp-content/uploads/2021/06/Operator-Precedence-and-Associativity-in-C.jpg)
 
-
+You can find examples of how to use these operators in Program_2 and Program_3. 
 
 
 
