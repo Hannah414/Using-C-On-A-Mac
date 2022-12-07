@@ -158,8 +158,8 @@ Logical conditionals use rational operators, and are generally self explainatory
 
 C uses the following conditional statements:
  - *if*: to specify a block of code to be executed, if the condition is true
- - *else*: to specify a block of code to be executed, if condition is false
  - *else if*: to specify a block of code to be executed, if first condition is false
+ - *else*: to specify a block of code to be executed, if condition is false
  
 ![example of if/else if/else statments](https://www.programiz.com/sites/tutorial2program/files/cpp-if-else-if-else-working.png)
 
