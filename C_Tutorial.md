@@ -108,7 +108,7 @@ When adding an *int* with a *float* C will automatically convert the *int* into 
 
 ### booleans
 
-*bool* is a variable type that returnes **True** if a variable is greater then 0 and **False** if the variable equals 0. Note: To use *bool* you need to include the following header: **#include <stdbool.h>** and the variable must have *bool* before it. 
+*bool* is a variable type that returnes **True** if a variable is greater then 0 and **False** if the variable equals 0. Note: To use *bool* you need to include the following header: **#include <stdbool.h>** and the variable must have *bool* before it, this is because Boolean is not a built in operation in c. 
 
 ### voids
 
