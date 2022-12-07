@@ -76,7 +76,7 @@ First we will need **#include <stdio.h>** in order to have an output.
 
 Next, we will need to create a function so that C will execute our code. **int main() { }**
 
-Then , within the curly brackets of the function, we will insert our print command: **printf("Hello World!")** and set our return to 0. (Again, we will go over *return* later, when we discuss functions)
+Then , within the curly brackets of the function, we will insert our print command: **printf("Hello World!")** and set our return to 0. (We will go over *return* later, when we discuss functions)
 
 ![Example of C code for Hello World](https://i.pinimg.com/564x/a0/20/0d/a0200d8de9b8046270ab92af9ef47b6f.jpg)
 
@@ -118,7 +118,7 @@ When adding an *int* with a *float* C will automatically convert the *int* into 
 
 A *pointer* is a variable that points to the storage/memory address of another variable. To create a pointer you first declare its data type, then you place an asterisk between the data type and the variable name. For example: **int * pointer;**. To get the address of the variable we are pointing to, we must set the pointer equal to the variable we want to point at with an & symbol in front of the variable name. Example: **pointer = &variable;**
 
-## Naming Variables
+## Naming Conventions
 
 There are both hard and soft rules for naming your variables. Some rules are set within the C program, and others are general rules that coders follow because of tradition. 
 
@@ -132,6 +132,9 @@ While it is possible for you to start a variable name with an underscore or numb
 
 On the same note, variables should not be started with an uppercase letter unless it is a *class* name (we will get to those later).
 
+## Reserved Words
+
+Reserved words are words that are built into programing languages. They are used to execute built in operations automaticaly. Like we discussed above, data types must be declared when creating variables, this is an exaple of using reserved words. *int*, *float*, *char*, etc.. are used to automatically declare the limitaions and rules of the variable(s) created. Other reserved words can be found [here](https://www.ibm.com/docs/en/developer-for-zos/14.2?topic=programs-c-reserved-keywords)
 
 
 
