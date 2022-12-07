@@ -79,6 +79,7 @@ Next, we will need to create a function so that C will execute our code. **int m
 Then , within the curly brackets of the function, we will insert our print command: **printf("Hello World!")** and set our return to 0. (Again, we will go over *return* later, when we discuss functions)
 
 # insert picture of code here
+![Example of C code for Hello World](https://i.pinimg.com/564x/a0/20/0d/a0200d8de9b8046270ab92af9ef47b6f.jpg)
 
 Congratulations! You have completed your first program in C!
 
