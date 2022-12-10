@@ -148,13 +148,13 @@ You can find examples of how to use these operators in Program_2 and Program_3.
 
 ## Conditional Statements
 
-# Logical Conditionals
+### Logical Conditionals
 
 Logical conditionals use rational operators, and are generally self explainatory:
 
 ![table of rational operators](https://www.programtopia.net/wp-content/uploads/2021/01/2.PNG)
 
-# if/else Statements
+### if/else Statements
 
  - *if*: to specify a block of code to be executed, if the condition is true
  - *else if*: to specify a block of code to be executed, if first condition is false
@@ -166,7 +166,7 @@ For if/else statements, if two conditions must be met, you can include both cond
 
 Note: You must surround the code to be executed with brackets {}. 
 
-# switch statements
+### switch statements
 
 - *switch*: to specify many alternate blocks of code to be executed
 
@@ -179,6 +179,19 @@ Note: Like with if/else statements you must surround the code to be executed wit
 See Program_4 for examples of conditional statements. 
 
 ## Loops
+
+C has three different tyoes of loops:
+
+- *for* loops
+- *while* loops 
+- *do while* loops 
+
+# for loops
+
+# while loops
+
+# do while loops 
+
 
 
 
