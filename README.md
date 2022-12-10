@@ -186,15 +186,17 @@ C has three different tyoes of loops:
 - *while* loops 
 - *do while* loops 
 
-# for loops
+### for loops
 
+https://github.com/Hannah414/CS330PLP/blob/6505c970f1e93b53b14f76a2646fe2ee5b597af6/Program_5.c#L8-L17
 
+### while loops
 
-# while loops
+https://github.com/Hannah414/CS330PLP/blob/6505c970f1e93b53b14f76a2646fe2ee5b597af6/Program_5.c#L19-L26
 
-# do while loops 
+### do while loops 
 
-
+https://github.com/Hannah414/CS330PLP/blob/6505c970f1e93b53b14f76a2646fe2ee5b597af6/Program_5.c#L28-L36
 
 
 
