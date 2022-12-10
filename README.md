@@ -198,6 +198,10 @@ https://github.com/Hannah414/CS330PLP/blob/6505c970f1e93b53b14f76a2646fe2ee5b597
 
 https://github.com/Hannah414/CS330PLP/blob/6505c970f1e93b53b14f76a2646fe2ee5b597af6/Program_5.c#L28-L36
 
+See Program_5 for examples of loops. 
+
+## Functions 
+
 
 
 
