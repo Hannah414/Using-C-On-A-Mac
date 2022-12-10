@@ -188,6 +188,8 @@ C has three different tyoes of loops:
 
 # for loops
 
+
+
 # while loops
 
 # do while loops 
