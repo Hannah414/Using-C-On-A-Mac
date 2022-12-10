@@ -1,7 +1,7 @@
 //here we include out header file that runs inputs and outputs 
 #include <stdio.h>
 
-//this code addresses loops and functions 
+//this code addresses loops
 int main(void){
 
 
