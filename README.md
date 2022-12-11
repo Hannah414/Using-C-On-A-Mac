@@ -214,7 +214,21 @@ See Program_5 for examples of loops.
 
 ## Functions 
 
-When creating a function, you must declare the return type of the function. This could be *int*, *float*, *char*, or *void*. after delairng the function type, you would name it. Programers generally name their functions based on the functions purpose. The pattern for creating a function is **data-type functionName(){}**
+When creating a function, you must declare the return type of the function. This could be *int*, *float*, *char*, or *void*. after delairng the function type, you would name it. Programers generally name their functions based on the functions purpose. The pattern for creating a function is **data-type functionName(){}** Functions are used to help break up code into managable sections that perform a specific task. This allows programmers to call a function to perform its task instead of writing the code for said task repeatedly as needed. Note: functions in C can only return one value each time it's called. C functions pass by value, that is, they pass a copy of a variable into a function when it's called for use within the function. 
+
+C  supports recursive functions, i.e., a function to call itself. But while using recursion, you must define an exit condition from the function, otherwise it will go into an infinite loop. Recursive functions are useful in solving mathematical equations. 
+
+## Structs 
+
+C is an Object Oriented Program. Objects in C are difined as *structs*, similar to arrays, *structs* are variables that hold multiple values. Though unlike arrays, *structs* are capable of holding multiple different data types. 
+
+
+
+
+
+
+
+
 
 
 
