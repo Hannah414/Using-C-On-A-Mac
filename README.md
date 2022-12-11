@@ -124,7 +124,7 @@ https://github.com/Hannah414/CS330PLP/blob/222df64bc59fb0dfeca609d9b97aa7fdb984e
 
 ### voids
 
-*void* is an incomplete data type. a *void* data type menas "nothing" and can be considered **absent**, if a function returns nothing then the data type returned should be *void*. 
+*void* is an incomplete data type. a *void* data type means "nothing" and can be considered **absent**, if a function returns nothing then the data type returned should be *void*. 
 
 ### pointers
 
@@ -156,7 +156,7 @@ Some of the basic operators avalible in c are the following:
 
 ![table of basic operators in c](https://learningmonkey.in/wp-content/uploads/2021/06/Operator-Precedence-and-Associativity-in-C.jpg)
 
-You can find examples of how to use these operators in Program_2 and Program_3. 
+You can find examples of how to use these operators in Program_3. 
 
 ## Conditional Statements
 
@@ -182,7 +182,7 @@ Note: You must surround the code to be executed with brackets {}.
 
 - *switch*: to specify many alternate blocks of code to be executed
 
-![example of switch statments](https://cwh-full-next-space.fra1.digitaloceanspaces.com/videos/cpp-tutorials-in-hindi-9/base64_NSQ7ZYo.webp)
+https://github.com/Hannah414/CS330PLP/blob/21b4ed941f2814e3d2e37cb18efe2f5d48994c2a/Program_4.c#L22-L37
 
 For switch statments, the conditional must match the case exactly in order for the bracketed code to be executed. Once a condition is met, and the associated code has run, you use *break* to exit the switch statement. 
 
@@ -214,7 +214,7 @@ See Program_5 for examples of loops.
 
 ## Functions 
 
-
+When creating a function, you must declare the return type of the function. This could be *int*, *float*, *char*, or *void*. after delairng the function type, you would name it. Programers generally name their functions based on the functions purpose. The pattern for creating a function is **data-type functionName(){}**
 
 
 
