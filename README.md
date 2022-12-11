@@ -78,7 +78,7 @@ Next, we will need to create a function so that C will execute our code. **int m
 
 Then , within the curly brackets of the function, we will insert our print command: **printf("Hello World!")** and set our return to 0. (We will go over *return* later, when we discuss functions)
 
-![Example of C code for Hello World](https://i.pinimg.com/564x/a0/20/0d/a0200d8de9b8046270ab92af9ef47b6f.jpg)
+https://github.com/Hannah414/CS330PLP/blob/222df64bc59fb0dfeca609d9b97aa7fdb984ef6b/Program_1.c#L1-L16
 
 Congratulations! You have completed your first program in C!
 
@@ -92,25 +92,35 @@ We will be going over ints, chars, floats, arrays, booleans, and voids. See Prog
 
 *int* variables are whole numbers that can have both zero, negative, or positive values. These variables are declared when you write *int* before the variable. 
 
+https://github.com/Hannah414/CS330PLP/blob/222df64bc59fb0dfeca609d9b97aa7fdb984ef6b/Program_2.c#L9-L13
+
 ### floats
 
 *float* is used to hold real numbers, these numbers can be positive, negative, rational or irrational. You can also use *double* the same way as a float for longer, more accurate numbers. These variables are declared when you write *float* (or *double*) before the variable. 
 
 When adding an *int* with a *float* C will automatically convert the *int* into a *float* in order to complete the equation. The resulting output will be a float. 
 
+https://github.com/Hannah414/CS330PLP/blob/222df64bc59fb0dfeca609d9b97aa7fdb984ef6b/Program_2.c#L14-L19
+
 ### chars
 
 *char* is used to declare character type variables, you can use any character contained withing quotes or apostrophes. These variables are declared when you write *char* before the variable. 
 
+https://github.com/Hannah414/CS330PLP/blob/222df64bc59fb0dfeca609d9b97aa7fdb984ef6b/Program_2.c#L20-L25
+
 ### arrays
 
 *arrays* are variables that can store multiple values of the same type in one variable instead of multiple. *arrays* must be declared, and are created when square brackets are places diractly following the variable name and are set equal to it values which are contained in curly brackets and seperated by commas. For example: **int var[] = {1,2,3}**
+
+https://github.com/Hannah414/CS330PLP/blob/222df64bc59fb0dfeca609d9b97aa7fdb984ef6b/Program_2.c#L26-L31
 
 ### booleans
 
 *bool* is a variable type that returnes **True** if a variable is greater then 0 and **False** if the variable equals 0. 
 
 Note: To use *bool* you need to include the following header: **#include <stdbool.h>** and the variable must have *bool* before it, this is because bool is not a built in operation in c. 
+
+https://github.com/Hannah414/CS330PLP/blob/222df64bc59fb0dfeca609d9b97aa7fdb984ef6b/Program_2.c#L32-L37
 
 ### voids
 
@@ -119,6 +129,8 @@ Note: To use *bool* you need to include the following header: **#include <stdboo
 ### pointers
 
 A *pointer* is a variable that points to the storage/memory address of another variable. To create a pointer you first declare its data type, then you place an asterisk between the data type and the variable name. For example: **int * pointer;**. To get the address of the variable we are pointing to, we must set the pointer equal to the variable we want to point at with an & symbol in front of the variable name. Example: **pointer = &variable;**
+
+https://github.com/Hannah414/CS330PLP/blob/222df64bc59fb0dfeca609d9b97aa7fdb984ef6b/Program_2.c#L42-L49
 
 ## Naming Conventions
 
