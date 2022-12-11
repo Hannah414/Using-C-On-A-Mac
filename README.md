@@ -222,7 +222,9 @@ C  supports recursive functions, i.e., a function to call itself. But while usin
 
 C is an Object Oriented Program. Objects in C are difined as *structs*, similar to arrays, *structs* are variables that hold multiple values. Though unlike arrays, *structs* are capable of holding multiple different data types. 
 
+Structs are created using **struct Variable { dataType variable.subVariable } OptionalShortHandVariable;**
 
+https://github.com/Hannah414/CS330PLP/blob/17148a416a4808ffc69e5cbc35e55fa5c216d91d/Program_7.c#L6-L12
 
 
 
