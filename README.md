@@ -56,9 +56,11 @@ Any statment that you want to run must be placed within the curly brackets of a 
 
 The command for print in C is as follows: *printf(" ");*
 
-Whatever output you wish to print must be withing the parentheses and quotes. 
+Whatever output you wish to print must be within parentheses and quotes. Format specifiers are used in C for input and output purposes. They allow the compiler to understand what the data-type of a variable is during input and output functions. [Here](https://www.tutorialspoint.com/format-specifiers-in-c) is a list of format specifiers. The example below shows the use of sepcifier *%d*:
 
-Another thing to note is that each statment must end with a semi-colon to both end the statment and to seperate it from following statments. 
+https://github.com/Hannah414/CS330PLP/blob/925ad5c3f92184bedbaa039fa8c9a759d6973ce3/Example.c#L1-L8
+
+Another thing to note is that each statement must end with a semi-colon to end the statment and seperate it from following statments. 
 
 ### Commenting
 
