@@ -1,4 +1,4 @@
-# CS-330 PLP C on Mac
+# Using C on a Mac
 
 C was created in the early 1970’s in Bell Labs by Dennis Richie. 
 C was created in an effort to take advantage of PDP-11 features and improve upon the slowness of B, 
